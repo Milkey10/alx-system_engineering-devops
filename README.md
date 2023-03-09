@@ -1,1 +1,1 @@
-New repo
+This is Readme for shell basics
